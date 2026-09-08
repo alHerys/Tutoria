@@ -1,6 +1,7 @@
 <div align="center">
 
 # 📚 Tutoria
+<img width="618" height="418" alt="Screenshot 2026-09-09 at 06 50 16" src="https://github.com/user-attachments/assets/dbd93edf-a89f-4c66-ae9b-9f1916274c29" />
 
 ### *Your Smart Learning Companion*
 
